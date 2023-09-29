@@ -50,4 +50,4 @@ while continue_game:
     print(f"You're right! Current score: {score}.")
   else:
     continue_game = False
-    print(f"Sorry, wrong answer. Final score: {score}.") 
+    print(f"Sorry, wrong answer. Final score: {score}.")
